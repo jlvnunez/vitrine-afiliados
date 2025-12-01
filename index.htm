@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>JLVNUNEZ — Vitrine de afiliados</title>
+  <meta name="description" content="Vitrine de produtos de afiliados com destaques e carrosséis automáticos." />
+  <meta name="theme-color" content="#c60b1e" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="afiliado.css">
+</head>
+<body>
+  <!-- HEADER -->
+  <header>
+  <div class="container nav">
+    <div class="brand">
+      <!-- Logo sem link -->
+      <img
+        src="imagem/Logo-jlvnunez.png"
+        alt="JLVNUNEZ"
+        class="brand-logo"
+        width="160"
+        height="auto"
+        decoding="async"
+        loading="eager"
+      />
+    </div>
+    <nav class="nav-actions">
+      <a href="#destaques" class="btn">Destaques</a>
+      <a href="#categorias" class="btn">Categorias</a>
+      <a href="#ofertas" class="btn primary">Ver ofertas</a>
+    </nav>
+  </div>
+</header>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container">
+        <h1>Vitrine de produtos de afiliados</h1>
+        <p>Descubra ofertas, lançamentos e top sellers em carrosséis automáticos e uma grade rápida de produtos.</p>
+        <div class="cta">
+          <a class="btn primary" href="#destaques">Explorar destaques</a>
+          <!-- <a class="btn" href="#ofertas">Ver todos os produtos</a> -->
+           <a class="btn" href="https://collshp.com/jlvnunez" target="_blank">Ver produtos na Shopee</a>
+            <a class="btn" href="https://mercadolivre.com/sec/1sUWwjr" target="_blank">Ver produtos no Mercado Livre</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- DESTAQUES: CARROSSEL -->
+    <section id="destaques" class="section">
+      <div class="container">
+        <h2>Destaques da semana</h2>
+        <div class="carousel" data-autoplay="true" data-interval="3500">
+          <div class="carousel-track" id="carousel-1"></div>
+          <div class="carousel-controls">
+            <button class="ctrl prev" aria-label="Anterior">‹</button>
+            <button class="ctrl next" aria-label="Próximo">›</button>
+          </div>
+          <div class="dots" aria-label="Indicadores"></div>
+        </div>
+
+        <h2 style="margin-top:10px">Top sellers</h2>
+        <div class="carousel" data-autoplay="true" data-interval="3000">
+          <div class="carousel-track" id="carousel-2"></div>
+          <div class="carousel-controls">
+            <button class="ctrl prev" aria-label="Anterior">‹</button>
+            <button class="ctrl next" aria-label="Próximo">›</button>
+          </div>
+          <div class="dots" aria-label="Indicadores"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- GRID DE PRODUTOS -->
+    <section id="ofertas" class="section">
+      <div class="container">
+        <h2>Ofertas e novidades</h2>
+        <div class="grid" id="product-grid"></div>
+      </div>
+    </section>
+
+    <!-- CATEGORIAS -->
+    <section id="categorias" class="section">
+      <div class="container">
+        <h2>Categorias populares</h2>
+        <div class="tag-row">
+          <span class="tag">Tecnologia</span>
+          <span class="tag">Casa & Cozinha</span>
+          <span class="tag">Beleza</span>
+          <span class="tag">Lazer/Esporte</span>
+          <span class="tag">Moda</span>
+          <span class="tag">Pets</span>
+          <span class="tag">ferramentas</span>
+          <span class="tag">Jardinagem</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+      <div class="container footer-cols">
+        <div>
+          <strong>JLVNUNEZ</strong><br/>
+          <small>Divulgação de produtos com links de afiliado. Preços e disponibilidade sujeitos a alteração.</small>
+        </div>
+        <div>
+          <strong>Atendimento</strong><br/>
+          <small>jlvnunez001@gmail.com</small><br/>
+          <small>Araguaína, TO</small>
+        </div>
+        <div>
+          <strong>Legal</strong><br/>
+          <small>Política de privacidade</small><br/>
+          <small>Termos de uso</small>
+        </div>
+      </div>
+    </footer>
+
+  <script src="afiliado.js"></script>
+</body>
+</html>
