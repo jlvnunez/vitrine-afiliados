@@ -83,7 +83,7 @@ function estrelas(rating) {
   return "★".repeat(cheias) + (meio ? "½" : "") + "☆".repeat(5 - cheias - meio);
 }
 
-// Monta slides
+// Monta slides8
 function criarSlide(prod) {
   return `
     <article class="slide">
