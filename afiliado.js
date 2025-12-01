@@ -64,7 +64,7 @@ const gridProdutos = [
 
   { id: 8,
     titulo: "Motor de Portão Completo Dz Casa Speed 7 segundos 400kg 2 Controles 3m Cremalheira",
-    preco: "R$ 294,88",
+    preco: "R$ 429,88",
     rating: 4.9, img: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mfzfwgji7rb9e2.webp", 
     link: "https://s.shopee.com.br/5fhLqiZa2K" },]
 
@@ -110,7 +110,7 @@ function initCarousel(root, produtos) {
   const dots = root.querySelector(".dots");
   const prev = root.querySelector(".prev");
   const next = root.querySelector(".next");
-  const interval = Number(root.dataset.interval || 1000);
+  const interval = Number(root.dataset.interval || 3000);
   let index = 0, timer = null;
 
   // Render
