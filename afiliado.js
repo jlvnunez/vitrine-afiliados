@@ -12,7 +12,7 @@ const destaqueProdutos = [
   {
     id: 2,
     titulo: "Jogo 4 Pneus Itaro Aro 14 IT203 175/75R14 86T",
-    preco: "1.127,90",
+    preco: "1.203,33",
     rating: 4.9,
     img: "https://down-bs-br.img.susercontent.com/sg-11134201-7rdx5-lxla4ft03iau53.webp",
     //badge: "TOP SELLER",
@@ -33,11 +33,11 @@ const destaqueProdutos = [
 const topSellers = [
   { id: 4, 
     titulo: "Ozenvitta Suplemento Vitaminas E Minerais 60 Cápsulas Vegano Original",
-     preco: "R$ 23,77", 
+     preco: "R$ 24,25", 
      rating: 4.2, 
-     img: "https://http2.mlstatic.com/D_NQ_NP_2X_620675-MLB94266549094_102025-F.webp", 
+     img: "https://http2.mlstatic.com/D_NQ_NP_2X_631401-MLB91521374114_092025-F.webp", 
      /*badge: "TOP",*/
-     link: "https://mercadolivre.com/sec/2zvZ7pV" },
+     link: "https://mercadolivre.com/sec/1cahZUC" },
 
   { id: 5, 
     titulo: "Furadeira E Parafusadeira De Impacto Sem Fio A Bateria 21v 3/8 Com Maleta E Acessorios Tb-21pzw The Black Tools",
