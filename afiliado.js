@@ -66,11 +66,24 @@ const gridProdutos = [
     titulo: "Motor de Portão Completo Dz Casa Speed 7 segundos 400kg 2 Controles 3m Cremalheira",
     preco: "R$ 429,88",
     rating: 4.9, img: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mfzfwgji7rb9e2.webp", 
-    link: "https://s.shopee.com.br/5fhLqiZa2K" },]
+    link: "https://s.shopee.com.br/5fhLqiZa2K" },
 
-  /*{ id: 9, titulo: "Tablet HD", preco: "R$ 2390,00", rating: 5.0, img: "assets/produtos/tablet.jpg", link: "#" },
-  { id:10, titulo: "Geladeira inox", preco: "R$ 4100,00", rating: 4.5, img: "assets/produtos/geladeira.jpg", link: "#" },
-  { id:11, titulo: "Batedeira vermelha", preco: "R$ 1200,00", rating: 4.5, img: "assets/produtos/batedeira.jpg", link: "#" },
+  { id: 9, 
+  titulo: "Aminomix Pet 100G" ,
+  preco: "R$ 38,90", 
+  rating: 5.0, 
+  img: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m0lmc65ao3a816.webp", 
+  link: "https://s.shopee.com.br/8fKyy6cXbo" }, 
+ 
+  { id:10,
+  titulo: "40 Dias Cheios do Espírito Santo | Kennedy Carvalho",
+   preco: "R$ 19,90", 
+   rating: 5.0, 
+   img: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m8c60eran9wxa1.webp",
+   link: "https://s.shopee.com.br/5L4X0MFCrB" },]
+
+
+ /*{ id:11, titulo: "Batedeira vermelha", preco: "R$ 1200,00", rating: 4.5, img: "assets/produtos/batedeira.jpg", link: "#" },
   { id:12, titulo: "Livros ilustrados", preco: "R$ 59,90", rating: 4.0, img: "assets/produtos/livros.jpg", link: "#" },
   { id:13, titulo: "Shampoo avançado", preco: "R$ 45,90", rating: 4.5, img: "assets/produtos/shampoo.jpg", link: "#" },
   { id:14, titulo: "Tênis corrida", preco: "R$ 359,90", rating: 4.0, img: "assets/produtos/tenis.jpg", link: "#" }
