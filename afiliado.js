@@ -83,7 +83,7 @@ function estrelas(rating) {
   return "★".repeat(cheias) + (meio ? "½" : "") + "☆".repeat(5 - cheias - meio);
 }
 
-// Monta slides
+// Monta slides8
 function criarSlide(prod) {
   return `
     <article class="slide">
@@ -110,7 +110,7 @@ function initCarousel(root, produtos) {
   const dots = root.querySelector(".dots");
   const prev = root.querySelector(".prev");
   const next = root.querySelector(".next");
-  const interval = Number(root.dataset.interval || 1000);
+  const interval = Number(root.dataset.interval || 3000);
   let index = 0, timer = null;
 
   // Render
