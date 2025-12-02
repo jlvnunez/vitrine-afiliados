@@ -100,7 +100,7 @@ function criarSlide(prod) {
           </div>
         </div>
       </div>
-    </article>
+   </article> `
 }
 
   
