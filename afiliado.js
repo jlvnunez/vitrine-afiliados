@@ -93,7 +93,7 @@ function criarSlide(prod) {
         <div>
           <h3>${prod.titulo}</h3>
           <div class="price">${prod.preco}</div>
-          <div class="rating">${estrelas(prod.rating)}</div>
+          <div class="rating">$estrelas(prod.rating)}</div>
           <div class="actions">
             <a class="btn" href="${prod.link}" target="_blank" rel="noopener">Ver detalhes</a>
             <a class="btn primary" href="${prod.link}" target="_blank" rel="noopener">Comprar</a>
@@ -101,11 +101,13 @@ function criarSlide(prod) {
         </div>
       </div>
     </article>
-  `;
 }
 
+  
+
+
 // Inicializa carrossel
-function initCarousel(root, produtos) {
+ function initCarousel(root, produtos) {
   const track = root.querySelector(".carousel-track");
   const dots = root.querySelector(".dots");
   const prev = root.querySelector(".prev");
