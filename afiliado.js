@@ -32,12 +32,12 @@ const destaqueProdutos = [
 
 const topSellers = [
   { id: 4, 
-    titulo: "Ozenvitta Suplemento Vitaminas E Minerais 60 Cápsulas Vegano Original",
-     preco: "R$ 24,25", 
-     rating: 4.2, 
-     img: "https://http2.mlstatic.com/D_NQ_NP_2X_631401-MLB91521374114_092025-F.webp", 
+    titulo: "Console PlayStation 5 Slim Digital 825GB",
+     preco: "R$ 2.999,00", 
+     rating: 5.0, 
+     img:"https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfmltid08v7o56.webp", 
      /*badge: "TOP",*/
-     link: "https://mercadolivre.com/sec/1cahZUC" },
+     link: "https://s.shopee.com.br/6fZuXtUNaY" },
 
   { id: 5, 
     titulo: "Furadeira E Parafusadeira De Impacto Sem Fio A Bateria 21v 3/8 Com Maleta E Acessorios Tb-21pzw The Black Tools",
@@ -57,14 +57,14 @@ const topSellers = [
 const gridProdutos = [
   { id: 7,
      titulo: "Kit 4 Blusas Feminina Fitness Dry Fit Camiseta Academia",
-     preco: "R$ 54,52",
+     preco: "R$ 57,39",
      rating: 4.7, 
      img: "https://http2.mlstatic.com/D_NQ_NP_2X_920257-MLB91454160279_092025-F-kit-4-blusas-feminina-fitness-dry-fit-camiseta-academia.webp", 
      link: "https://mercadolivre.com/sec/2PbHZKP" },
 
   { id: 8,
     titulo: "Motor de Portão Completo Dz Casa Speed 7 segundos 400kg 2 Controles 3m Cremalheira",
-    preco: "R$ 294,88",
+    preco: "R$ 429,88",
     rating: 4.9, img: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mfzfwgji7rb9e2.webp", 
     link: "https://s.shopee.com.br/5fhLqiZa2K" },]
 
