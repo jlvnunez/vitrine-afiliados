@@ -125,7 +125,7 @@ function criarSlide(prod) {
   const dots = root.querySelector(".dots");
   const prev = root.querySelector(".prev");
   const next = root.querySelector(".next");
-  const interval = Number(root.dataset.interval || 3000);
+  const interval = Number(root.dataset.interval || 5000);
   let index = 0, timer = null;
 
   // Render
