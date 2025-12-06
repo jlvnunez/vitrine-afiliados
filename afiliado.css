@@ -112,3 +112,19 @@ header {
 footer { border-top:1px solid var(--ring); padding:22px 0; color:var(--muted); }
 .footer-cols { display:grid; gap:16px; grid-template-columns:1fr; }
 @media (min-width: 768px) { .footer-cols { grid-template-columns: 2fr 1fr 1fr; } }
+
+.btn.whatsapp {
+  background-color: #25D366; /* verde oficial do WhatsApp */
+  color: #fff;
+  padding: 10px 16px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+  display: inline-block;
+  margin-top: 6px;
+  transition: background 0.3s ease;
+}
+
+.btn.whatsapp:hover {
+  background-color: #1ebe5d;
+}
