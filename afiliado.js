@@ -3,7 +3,7 @@ const destaqueProdutos = [
   {
     id: 1,
     titulo: "Smart Tv Philco 50 P50eaa 4k Led Android Tv Dolby Audio 110v/220vmartwatch avançado",
-    //preco: "R$ 1695,63",
+    preco: "",
     rating: 4.9,
     img: "https://http2.mlstatic.com/D_NQ_NP_2X_985720-MLA99931783357_112025-F.webp",
     //badge: "NOVIDADE",
@@ -11,21 +11,21 @@ const destaqueProdutos = [
   },
   {
     id: 2,
-    titulo: "Jogo 4 Pneus Itaro Aro 14 IT203 175/75R14 86T",
-    //preco: "1.203,33",
-    rating: 4.9,
-    img: "https://down-bs-br.img.susercontent.com/sg-11134201-7rdx5-lxla4ft03iau53.webp",
+    titulo: "Jogo 4 Pneus Goodyear Aro 13 Assurance Maxlife 165/70R13 83T XL",
+    preco: "",
+    rating: 5.0,
+    img: "https://down-cvs-br.img.susercontent.com/sg-11134201-7rbn4-m5vi18brpnh3b2.webp",
     //badge: "TOP SELLER",
-    link: "https://s.shopee.com.br/8AOgj6naku"
+    link: "https://s.shopee.com.br/20oCTEeG7j"
   },
   {
     id: 3,
-    titulo: "Notebook HP 256R G9 Intel Core i3-1315U 15.6 HD Intel UHD Graphics 256GB SSD 8GB RAM Windows 11 Home 64 SL - BQ9K8AT#AK4",
-    //preco: "R$ 2.249,10",
+    titulo: "Notebook VAIO FE16 AMD® Ryzen 7-5825U Linux 16GB RAM 512GB SSD 16 IPS WUXGA Antirreflexo - Cinza",
+    preco: "",
     rating: 4.4,
-    img: "https://http2.mlstatic.com/D_NQ_NP_2X_774849-MLA99987332081_112025-F.webp",
+    img: "https://down-cvs-br.img.susercontent.com/br-11134207-7r98o-mbwmtdl1npsp54.webp",
     //badge: "OFERTA",
-    link: "https://mercadolivre.com/sec/21sBCff"
+    link: "https://s.shopee.com.br/13861rl1X"
   }
   
 ];
@@ -33,7 +33,7 @@ const destaqueProdutos = [
 const topSellers = [
   { id: 4, 
     titulo: "Console PlayStation 5 Slim Digital 825GB",
-     //preco: "R$ 2.999,00", 
+     preco: "", 
      rating: 5.0, 
      img:"https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfmltid08v7o56.webp", 
      /*badge: "TOP",*/
@@ -41,14 +41,14 @@ const topSellers = [
 
   { id: 5, 
     titulo: "Furadeira E Parafusadeira De Impacto Sem Fio A Bateria 21v 3/8 Com Maleta E Acessorios Tb-21pzw The Black Tools",
-    // preco: "R$ 169,90",
+    preco: "",
      rating: 4.8, img: "https://http2.mlstatic.com/D_NQ_NP_2X_665097-MLA98169045976_112025-F.webp", 
      //badge: "NOVIDADE",
       link: "https://mercadolivre.com/sec/1XiRgHC" },
   
       { id: 6, 
      titulo: "Apple iPhone 16 (128 GB) - Branco - Distribuidor Autorizado",
-     // preco: "R$ 4.648,91", 
+     preco: "", 
      rating: 4.0, img: "https://http2.mlstatic.com/D_NQ_NP_2X_810764-MLA79138886319_092024-F.webp",
       //badge: "TOP", 
       link: "https://mercadolivre.com/sec/2KXLNig" }
@@ -57,37 +57,60 @@ const topSellers = [
 const gridProdutos = [
   { id: 7,
      titulo: "Kit 4 Blusas Feminina Fitness Dry Fit Camiseta Academia",
-    // preco: "R$ 57,39",
+    preco: "",
      rating: 4.7, 
      img: "https://http2.mlstatic.com/D_NQ_NP_2X_920257-MLB91454160279_092025-F-kit-4-blusas-feminina-fitness-dry-fit-camiseta-academia.webp", 
      link: "https://mercadolivre.com/sec/2PbHZKP" },
 
   { id: 8,
     titulo: "Motor de Portão Completo Dz Casa Speed 7 segundos 400kg 2 Controles 3m Cremalheira",
-   // preco: "R$ 429,88",
+    preco: "",
     rating: 4.9, img: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mfzfwgji7rb9e2.webp", 
     link: "https://s.shopee.com.br/5fhLqiZa2K" },
 
   { id: 9, 
   titulo: "Aminomix Pet 100G" ,
-  //preco: "R$ 38,90", 
+  preco: "", 
   rating: 5.0, 
   img: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m0lmc65ao3a816.webp", 
   link: "https://s.shopee.com.br/8fKyy6cXbo" }, 
  
   { id:10,
   titulo: "40 Dias Cheios do Espírito Santo | Kennedy Carvalho",
-   //preco: "R$ 19,90", 
+   preco: "", 
    rating: 5.0, 
    img: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m8c60eran9wxa1.webp",
-   link: "https://s.shopee.com.br/5L4X0MFCrB" },]
+   link: "https://s.shopee.com.br/5L4X0MFCrB" },
 
 
- /*{ id:11, titulo: "Batedeira vermelha", preco: "R$ 1200,00", rating: 4.5, img: "assets/produtos/batedeira.jpg", link: "#" },
-  { id:12, titulo: "Livros ilustrados", preco: "R$ 59,90", rating: 4.0, img: "assets/produtos/livros.jpg", link: "#" },
-  { id:13, titulo: "Shampoo avançado", preco: "R$ 45,90", rating: 4.5, img: "assets/produtos/shampoo.jpg", link: "#" },
-  { id:14, titulo: "Tênis corrida", preco: "R$ 359,90", rating: 4.0, img: "assets/produtos/tenis.jpg", link: "#" }
-];*/
+ { id:11,
+  titulo: "Sapatilha Feminina Mocassim Social Feminino Casual Sandália Rasteirinha Feminina Sapatos Femininos Confortável Atacado",
+  preco: "", 
+  rating: 4.8,
+   img: "https://down-cvs-br.img.susercontent.com/br-11134207-7qukw-lhxp8bmmk7lj8f.webp", 
+   link: "https://s.shopee.com.br/7V992ddnm8" },
+
+  { id:12,
+    titulo: "Sapatilha Bico Fino Feminina Mocassim Feminino Sapato Feminino Confortável Promoção Casual Cobra Detalhe Metalizado",
+    preco: "",
+    rating: 4.8, 
+    img: "https://down-bs-br.img.susercontent.com/4f6db4483e620ba12019fb4399d7f972.webp", 
+    link: "https://s.shopee.com.br/9pX3pCSWLp" },
+
+  { id:13,
+    titulo: "",
+    preco: " ",
+    rating: 4.5,
+    img: " ",
+    link: "#" },
+
+  { id:14,
+    titulo: "",
+    preco: "", 
+    rating: 4.0,
+    img: " ",
+    link: "#" }
+];
 
 // Utilidades
 function estrelas(rating) {
