@@ -40,11 +40,11 @@ const topSellers = [
      link: "https://s.shopee.com.br/6fZuXtUNaY" },
 
   { id: 5, 
-    titulo: "Furadeira E Parafusadeira De Impacto Sem Fio A Bateria 21v 3/8 Com Maleta E Acessorios Tb-21pzw The Black Tools",
+    titulo: "Smartphone Xiaomi Redmi 15 256gb / 128gb Versão Global Original",
     preco: "",
-     rating: 4.8, img: "https://http2.mlstatic.com/D_NQ_NP_2X_665097-MLA98169045976_112025-F.webp", 
+     rating: 4.9, img: "https://down-bs-br.img.susercontent.com/sg-11134201-824he-mes1gt7n1qm859.webp", 
      //badge: "NOVIDADE",
-      link: "https://mercadolivre.com/sec/1XiRgHC" },
+      link: "https://s.shopee.com.br/6AdmAgqJZD" },
   
       { id: 6, 
      titulo: "Apple iPhone 16 (128 GB) - Branco - Distribuidor Autorizado",
@@ -84,32 +84,32 @@ const gridProdutos = [
 
 
  { id:11,
-  titulo: "Sapatilha Feminina Mocassim Social Feminino Casual Sandália Rasteirinha Feminina Sapatos Femininos Confortável Atacado",
+  titulo: "Sapatilha Feminina Mocassim Social ",
   preco: "", 
   rating: 4.8,
    img: "https://down-cvs-br.img.susercontent.com/br-11134207-7qukw-lhxp8bmmk7lj8f.webp", 
    link: "https://s.shopee.com.br/7V992ddnm8" },
 
   { id:12,
-    titulo: "Sapatilha Bico Fino Feminina Mocassim Feminino Sapato Feminino Confortável Promoção Casual Cobra Detalhe Metalizado",
+    titulo: "Sapatilha Bico Fino Feminina Mocassim Detalhe Metalizado",
     preco: "",
     rating: 4.8, 
     img: "https://down-bs-br.img.susercontent.com/4f6db4483e620ba12019fb4399d7f972.webp", 
     link: "https://s.shopee.com.br/9pX3pCSWLp" },
 
   { id:13,
-    titulo: "",
-    preco: " ",
-    rating: 4.5,
-    img: " ",
-    link: "#" },
+    titulo: " Relogio smartwatch Filikeu Masculino à Prova D'água Esportivo",
+    preco: "",
+    rating: 4.9,
+    img: "https://down-bs-br.img.susercontent.com/br-11134207-81z1k-mhv9m5085uyu30.webp",
+    link: "https://s.shopee.com.br/8KiGlGbzL6" },
 
   { id:14,
-    titulo: "",
+    titulo: "Furadeira Parafusadeira de impacto Gsb 550 Re Bosch 220v + Bolsa",
     preco: "", 
     rating: 4.0,
-    img: " ",
-    link: "#" }
+    img: "https://down-zl-br.img.susercontent.com/br-11134207-81z1k-mg6fxmtfllog71.webp ",
+    link: "https://s.shopee.com.br/1VrwbbcfrK" }
 ];
 
 // Utilidades
