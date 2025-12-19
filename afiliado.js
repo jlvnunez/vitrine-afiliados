@@ -2,42 +2,42 @@
 const destaqueProdutos = [
   {
     id: 1,
-    titulo: "Smart Tv Philco 50 P50eaa 4k Led Android Tv Dolby Audio 110v/220vmartwatch avançado",
-    preco: "",
+    titulo: "Smartphone Samsung A07 128GB Preto 4GB RAM Tela 6,7pol Câm. Dupla + Selfie 8MP",
+    preco: "6x de R$ 129,44 sem juros ou R$698,99 no pix",
     rating: 4.9,
-    img: "https://http2.mlstatic.com/D_NQ_NP_2X_985720-MLA99931783357_112025-F.webp",
+    img: "https://a-static.mlcdn.com.br/300x160/smartphone-samsung-a07-128gb-preto-4gb-ram-tela-67-cam-dupla-selfie-8mp/magazineluiza/240466500/136cee204094a8b1f0fb8344884ef31b.jpg",
     //badge: "NOVIDADE",
-    link: "https://mercadolivre.com/sec/2eQZ6Uw"
+    link: "https://divulgador.magalu.com/TfJfNjrv"
   },
   {
     id: 2,
-    titulo: "Jogo 4 Pneus Goodyear Aro 13 Assurance Maxlife 165/70R13 83T XL",
-    preco: "",
-    rating: 5.0,
-    img: "https://down-cvs-br.img.susercontent.com/sg-11134201-7rbn4-m5vi18brpnh3b2.webp",
+    titulo: "Kit 4 Pneus 175/65R14 Goodyear Assurance Maxlife 86H Aro 14",
+    preco: "10x de R$ 181,48 sem juros ou R$ 1.560,72 no pix ",
+    rating: 4.8,
+    img: "https://a-static.mlcdn.com.br/800x560/kit-4-pneus-175-65r14-goodyear-assurance-maxlife-86h-aro-14/lojaacheipneus/26397k4/3a0a39822262830ae4cdc7e3b3d56ad3.jpeg",
     //badge: "TOP SELLER",
-    link: "https://s.shopee.com.br/20oCTEeG7j"
+    link: "https://divulgador.magalu.com/Dbky0gcQ"
   },
   {
     id: 3,
-    titulo: "Notebook VAIO FE16 AMD® Ryzen 7-5825U Linux 16GB RAM 512GB SSD 16 IPS WUXGA Antirreflexo - Cinza",
-    preco: "",
+    titulo: "Impressora Multifuncional HP DeskJet Ink 2874 Wi-Fi Jato de Tinta Térmico Colorida USB",
+    preco: "4x de R$ 112,25 sem juros ou R$ 404,10 no pix",
     rating: 4.4,
-    img: "https://down-cvs-br.img.susercontent.com/br-11134207-7r98o-mbwmtdl1npsp54.webp",
+    img: "https://a-static.mlcdn.com.br/800x560/impressora-multifuncional-hp-deskjet-ink-2874-wi-fi-jato-de-tinta-termico-colorida-usb/magazineluiza/238104700/332ee66de144a6f61d246033f4247224.jpg",
     //badge: "OFERTA",
-    link: "https://s.shopee.com.br/13861rl1X"
+    link: "https://divulgador.magalu.com/9pBnejxJ"
   }
   
 ];
 
 const topSellers = [
   { id: 4, 
-    titulo: "Console PlayStation 5 Slim Digital 825GB",
-     preco: "", 
+    titulo: "Geladeira/Refrigerador Electrolux Frost Free AutoSense 3 Portas Inox Look 590L Multidoor Efficient",
+     preco: "10x de R$ 648,90 sem juros ou R$ 6.359,22 no pix", 
      rating: 5.0, 
-     img:"https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfmltid08v7o56.webp", 
+     img:"https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-frost-free-autosense-3-portas-inox-look-590l-multidoor-efficient/magazineluiza/235419900/254aef12c804237bb62804cccff696cc.jpg", 
      /*badge: "TOP",*/
-     link: "https://s.shopee.com.br/6fZuXtUNaY" },
+     link: "https://divulgador.magalu.com/m2XoOEt2" },
 
   { id: 5, 
     titulo: "Smartphone Xiaomi Redmi 15 256gb / 128gb Versão Global Original",
@@ -47,11 +47,11 @@ const topSellers = [
       link: "https://s.shopee.com.br/6AdmAgqJZD" },
   
       { id: 6, 
-     titulo: "Apple iPhone 16 (128 GB) - Branco - Distribuidor Autorizado",
-     preco: "", 
-     rating: 4.0, img: "https://http2.mlstatic.com/D_NQ_NP_2X_810764-MLA79138886319_092024-F.webp",
+     titulo: "Apple iPhone 17 Pro Max 256GB Prateado 6,9pol 48MP iOS 5G",
+     preco: "R$ 11.249,10 no pix ou 10x de R$ 1.249,90 sem juros", 
+     rating: 4.5, img: "https://a-static.mlcdn.com.br/800x560/apple-iphone-17-pro-max-256gb-prateado-69-48mp-ios-5g/magazineluiza/240588500/2760ed645ef5c7f717819837dd17051e.jpg",
       //badge: "TOP", 
-      link: "https://mercadolivre.com/sec/2KXLNig" }
+      link: "https://divulgador.magalu.com/-IaOMah6" }
 ];
 
 const gridProdutos = [
@@ -69,18 +69,19 @@ const gridProdutos = [
     link: "https://s.shopee.com.br/5fhLqiZa2K" },
 
   { id: 9, 
-  titulo: "Aminomix Pet 100G" ,
-  preco: "", 
-  rating: 5.0, 
-  img: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m0lmc65ao3a816.webp", 
-  link: "https://s.shopee.com.br/8fKyy6cXbo" }, 
+  titulo: "Relógio Feminino Champion Original Digital Prata Espelhado Led Branco Coração 064Q" ,
+  preco: "3x de R$ 82,97 sem juros ou R$ 224,01 no pix", 
+  rating: 4.8, 
+  img: "https://a-static.mlcdn.com.br/800x560/relogio-feminino-champion-original-digital-prata-espelhado-led-branco-coracao-064q/emporiogrife/15875129742/b1771db7c5cfb316c869c8a7e67828a0.jpeg", 
+  link: "https://divulgador.magalu.com/A02TUOEw" }, 
  
   { id:10,
-  titulo: "40 Dias Cheios do Espírito Santo | Kennedy Carvalho",
-   preco: "", 
-   rating: 5.0, 
-   img: "https://down-tx-br.img.susercontent.com/br-11134207-7r98o-m8c60eran9wxa1.webp",
-   link: "https://s.shopee.com.br/5L4X0MFCrB" },
+  titulo: "Notebook Ultra, Linux, 15,6 Pol. HD, Intel Celeron, 240GB SSD/ 8GB RAM, Cinza Escovado - UB262 - Multi",
+   preco: "11x de R$ 124,31 sem juros ou  R$ 1.203,29 no pix",
+
+   rating: 4.6, 
+   img: "https://a-static.mlcdn.com.br/800x560/notebook-ultra-linux-156-pol-hd-intel-celeron-240gb-ssd-8gb-ram-cinza-escovado-ub262-multi/obaboxtecnologia/15005328/87e384df2978ec3f36869149a218a0d5.jpeg",
+   link: "https://divulgador.magalu.com/Pjol8224" },
 
 
  { id:11,
@@ -132,7 +133,7 @@ function criarSlide(prod) {
           <div class="rating">${estrelas(prod.rating)}</div>
           <div class="actions">
             <a class="btn" href="${prod.link}" target="_blank" rel="noopener">Ver detalhes</a>
-            <a class="btn primary" href="${prod.link}" target="_blank" rel="noopener">Ver Preço</a>
+            <a class="btn primary" href="${prod.link}" target="_blank" rel="noopener">Acesso à loja</a>
           </div>
         </div>
       </div>
@@ -192,7 +193,7 @@ function initGrid(container, produtos) {
           <span>${estrelas(p.rating)}</span>
         </div>
         <div class="buy">
-          <a class="btn primary" href="${p.link}" target="_blank" rel="noopener">Ver Preço</a>
+          <a class="btn primary" href="${p.link}" target="_blank" rel="noopener">Acesso à loja</a>
         </div>
       </div>
     </article>
