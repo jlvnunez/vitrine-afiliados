@@ -3,7 +3,7 @@ const destaqueProdutos = [
   {
     id: 1,
     titulo: "Smartphone Samsung A07 128GB Preto 4GB RAM Tela 6,7pol Câm. Dupla + Selfie 8MP",
-    preco: "6x de R$ 129,44 sem juros ou R$698,99 no pix",
+    preco: "",
     rating: 4.9,
     img: "https://a-static.mlcdn.com.br/300x160/smartphone-samsung-a07-128gb-preto-4gb-ram-tela-67-cam-dupla-selfie-8mp/magazineluiza/240466500/136cee204094a8b1f0fb8344884ef31b.jpg",
     //badge: "NOVIDADE",
@@ -12,7 +12,7 @@ const destaqueProdutos = [
   {
     id: 2,
     titulo: "Kit 4 Pneus 175/65R14 Goodyear Assurance Maxlife 86H Aro 14",
-    preco: "10x de R$ 181,48 sem juros ou R$ 1.560,72 no pix ",
+    preco: " ",
     rating: 4.8,
     img: "https://a-static.mlcdn.com.br/800x560/kit-4-pneus-175-65r14-goodyear-assurance-maxlife-86h-aro-14/lojaacheipneus/26397k4/3a0a39822262830ae4cdc7e3b3d56ad3.jpeg",
     //badge: "TOP SELLER",
@@ -21,7 +21,7 @@ const destaqueProdutos = [
   {
     id: 3,
     titulo: "Impressora Multifuncional HP DeskJet Ink 2874 Wi-Fi Jato de Tinta Térmico Colorida USB",
-    preco: "4x de R$ 112,25 sem juros ou R$ 404,10 no pix",
+    preco: "",
     rating: 4.4,
     img: "https://a-static.mlcdn.com.br/800x560/impressora-multifuncional-hp-deskjet-ink-2874-wi-fi-jato-de-tinta-termico-colorida-usb/magazineluiza/238104700/332ee66de144a6f61d246033f4247224.jpg",
     //badge: "OFERTA",
@@ -33,7 +33,7 @@ const destaqueProdutos = [
 const topSellers = [
   { id: 4, 
     titulo: "Geladeira/Refrigerador Electrolux Frost Free AutoSense 3 Portas Inox Look 590L Multidoor Efficient",
-     preco: "10x de R$ 648,90 sem juros ou R$ 6.359,22 no pix", 
+     preco: "", 
      rating: 5.0, 
      img:"https://a-static.mlcdn.com.br/800x560/geladeira-refrigerador-electrolux-frost-free-autosense-3-portas-inox-look-590l-multidoor-efficient/magazineluiza/235419900/254aef12c804237bb62804cccff696cc.jpg", 
      /*badge: "TOP",*/
@@ -48,7 +48,7 @@ const topSellers = [
   
       { id: 6, 
      titulo: "Apple iPhone 17 Pro Max 256GB Prateado 6,9pol 48MP iOS 5G",
-     preco: "R$ 11.249,10 no pix ou 10x de R$ 1.249,90 sem juros", 
+     preco: "", 
      rating: 4.5, img: "https://a-static.mlcdn.com.br/800x560/apple-iphone-17-pro-max-256gb-prateado-69-48mp-ios-5g/magazineluiza/240588500/2760ed645ef5c7f717819837dd17051e.jpg",
       //badge: "TOP", 
       link: "https://divulgador.magalu.com/-IaOMah6" }
@@ -70,14 +70,14 @@ const gridProdutos = [
 
   { id: 9, 
   titulo: "Relógio Feminino Champion Original Digital Prata Espelhado Led Branco Coração 064Q" ,
-  preco: "3x de R$ 82,97 sem juros ou R$ 224,01 no pix", 
+  preco: "", 
   rating: 4.8, 
   img: "https://a-static.mlcdn.com.br/800x560/relogio-feminino-champion-original-digital-prata-espelhado-led-branco-coracao-064q/emporiogrife/15875129742/b1771db7c5cfb316c869c8a7e67828a0.jpeg", 
   link: "https://divulgador.magalu.com/A02TUOEw" }, 
  
   { id:10,
   titulo: "Notebook Ultra, Linux, 15,6 Pol. HD, Intel Celeron, 240GB SSD/ 8GB RAM, Cinza Escovado - UB262 - Multi",
-   preco: "11x de R$ 124,31 sem juros ou  R$ 1.203,29 no pix",
+   preco: "",
 
    rating: 4.6, 
    img: "https://a-static.mlcdn.com.br/800x560/notebook-ultra-linux-156-pol-hd-intel-celeron-240gb-ssd-8gb-ram-cinza-escovado-ub262-multi/obaboxtecnologia/15005328/87e384df2978ec3f36869149a218a0d5.jpeg",
